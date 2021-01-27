@@ -1,0 +1,23 @@
+{
+  "name": "freecodecampnode",
+  "version": "0.1.0",
+  "description": "Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordGemma/freeCodeCampNode.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JS"
+  ],
+  "author": "Vadym Aminov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LordGemma/freeCodeCampNode/issues"
+  },
+  "homepage": "https://github.com/LordGemma/freeCodeCampNode#readme"
+}
